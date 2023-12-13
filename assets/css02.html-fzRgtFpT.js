@@ -1,0 +1,1 @@
+const s=JSON.parse('{"key":"v-b8568338","path":"/pages/css/css02.html","title":"css2 页面的左侧标题","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"css2 页面的左侧标题","description":"页s"},"headers":[],"git":{"updatedTime":1702015692000,"contributors":[{"name":"zheyikuai","email":"zheyikuai","commits":2}]},"filePathRelative":"pages/css/css02.md"}');export{s as data};

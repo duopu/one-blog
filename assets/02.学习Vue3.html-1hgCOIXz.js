@@ -1,0 +1,1 @@
+import{_ as e,o as _,c as t,a as c}from"./app-xNEG_u8e.js";const o={},s=c("p",null,"学习Vue3",-1),n=[s];function a(r,l){return _(),t("div",null,n)}const d=e(o,[["render",a],["__file","02.学习Vue3.html.vue"]]);export{d as default};
