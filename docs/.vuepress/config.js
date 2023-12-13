@@ -58,10 +58,15 @@ export default {
                     text: 'vue3',
                     collapsible: false, // 可折叠
                     children: [
-                        '01.学习Vue3.md',
-                        '02.学习Vue3.md'
+                        '01.学习Vue3',
+                        '02.学习Vue3'
                     ],
                 },
+                {
+                    text: '前端埋点SDK',
+                    collapsible: false,
+                    children: ['前端埋点SDK'],
+                }
             ],
             '/pages/js/': [
                 {

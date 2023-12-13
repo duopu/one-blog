@@ -4,8 +4,8 @@ heroImage: /1.png  #  图片资源放到docs/public下
 heroImageDark: /2.jpg
 
 actions:
-  - text: 快速上手
-    link: /pages/css/css01.html
+  - text: 快捷入口
+    link: /pages/vue/01.学习Vue3.md
     type: primary
   - text: 项目简介
     link: /pages/css/css02
